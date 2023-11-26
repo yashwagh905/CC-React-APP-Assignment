@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           CC Assignment 5 Accomplished
+          <br />
+          Yash Wagh- AIDS C- 74
         </p>
         <a
           className="App-link"
