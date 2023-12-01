@@ -11,14 +11,7 @@ function App() {
           <br />
           Yash Wagh- AIDS C- 74
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
       </header>
     </div>
   );
