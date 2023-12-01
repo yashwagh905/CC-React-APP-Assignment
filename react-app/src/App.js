@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CC Assignment 5 Accomplished
+          CC LAB DONE BITCH😒
           <br />
           Yash Wagh- AIDS C- 74
         </p>
